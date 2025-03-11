@@ -13,13 +13,15 @@
 
 theme: jekyll-agency
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+# github 페이지로 배포할 url 작성하기
+url    : "https://guensoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/gunbam" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+# 웹 페이지의 메타데이터
+title      : Gunbam Company
+email      : chbk9195@naver.com #this is also the email contact forms will go to
+description: "군밤을 사랑하는 사람 중에 나쁜 사람은 없다"
+author     : 군밤 사장
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
