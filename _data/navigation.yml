@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "군밤의 미학"
       section: services
-    - title: "Portfolio"
+    - title: "군밤의 탄생"
       section: portfolio
     - title: "About"
       section: about
